@@ -1,0 +1,16 @@
+C:\repos\hello-world-cs\bin\Debug\net5.0\hello-world-cs.exe
+C:\repos\hello-world-cs\bin\Debug\net5.0\hello-world-cs.deps.json
+C:\repos\hello-world-cs\bin\Debug\net5.0\hello-world-cs.runtimeconfig.json
+C:\repos\hello-world-cs\bin\Debug\net5.0\hello-world-cs.runtimeconfig.dev.json
+C:\repos\hello-world-cs\bin\Debug\net5.0\hello-world-cs.dll
+C:\repos\hello-world-cs\bin\Debug\net5.0\ref\hello-world-cs.dll
+C:\repos\hello-world-cs\bin\Debug\net5.0\hello-world-cs.pdb
+C:\repos\hello-world-cs\obj\Debug\net5.0\hello-world-cs.csproj.AssemblyReference.cache
+C:\repos\hello-world-cs\obj\Debug\net5.0\hello-world-cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\hello-world-cs\obj\Debug\net5.0\hello-world-cs.AssemblyInfoInputs.cache
+C:\repos\hello-world-cs\obj\Debug\net5.0\hello-world-cs.AssemblyInfo.cs
+C:\repos\hello-world-cs\obj\Debug\net5.0\hello-world-cs.csproj.CoreCompileInputs.cache
+C:\repos\hello-world-cs\obj\Debug\net5.0\hello-world-cs.dll
+C:\repos\hello-world-cs\obj\Debug\net5.0\ref\hello-world-cs.dll
+C:\repos\hello-world-cs\obj\Debug\net5.0\hello-world-cs.pdb
+C:\repos\hello-world-cs\obj\Debug\net5.0\hello-world-cs.genruntimeconfig.cache
